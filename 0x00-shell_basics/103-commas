@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -xa --file-type
+ls -xma --file-type && echo
